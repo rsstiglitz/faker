@@ -148,66 +148,21 @@ Faker is an MIT-licensed open source project with its ongoing development made p
 
 Please make sure to read the [Contributing Guide](https://github.com/faker-js/faker/blob/main/CONTRIBUTING.md) before making a pull request.
 
-### Building Faker
+## Credits
 
-The project is being built by [esbuild](https://esbuild.github.io) (see [bundle.ts](scripts/bundle.ts))
-
-```shell
-pnpm install
-pnpm run build
-```
-
-### Testing
-
-```shell
-pnpm install
-pnpm run build
-
-pnpm run test
-# or
-pnpm run coverage
-```
-
-You can view a code coverage report generated in `coverage/index.html`.
-
-### Developing the docs
-
-```shell
-# build the Faker dist
-# it's used inside of certain routes
-pnpm run build
-
-pnpm run docs:dev
-```
-
-### Building and serving the docs statically
-
-```shell
-# build the Faker dist
-# it's used inside of certain routes
-pnpm run build
-
-pnpm run docs:build # Output docs to /dist
-pnpm run docs:serve # Serve docs from /dist
-```
-
-### Deploying Documentation
-
-The website is kindly hosted for free by the Netlify team under their Open Source plan. See the [netlify.toml](netlify.toml) for configuration.
-
-### Thank you
-
-Thank you to all the people who already contributed to Faker!
+Thanks to all the people who already contributed to Faker!
 
 <a href="https://github.com/faker-js/faker/graphs/contributors"><img src="https://opencollective.com/fakerjs/contributors.svg?width=800" /></a>
 
-## What happened to the original faker.js?
-
-Read the [team update](https://fakerjs.dev/update.html) (January 14th, 2022).
+The [fakerjs.dev](https://fakerjs.dev) website is kindly hosted by the Netlify Team.
 
 ## Changelog
 
 Detailed changes for each release are documented in the [release notes](https://github.com/faker-js/faker/blob/main/CHANGELOG.md).
+
+## What happened to the original faker.js?
+
+Read the [team update](https://fakerjs.dev/update.html) (January 14th, 2022).
 
 ## License
 
