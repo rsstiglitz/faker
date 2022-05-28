@@ -3,11 +3,11 @@
   <h1>Faker</h1>
   <p>Generate massive amounts of fake (but realistic) data for testing and development.</p>
   
-  [![Chat on Discord](https://img.shields.io/discord/929487054990110771)](https://chat.fakerjs.dev)
-  [![Continuous Integration](https://github.com/faker-js/faker/actions/workflows/ci.yml/badge.svg)](https://github.com/faker-js/faker/actions/workflows/ci.yml)
-  [![codecov](https://codecov.io/gh/faker-js/faker/branch/main/graph/badge.svg?token=N61U168G08)](https://codecov.io/gh/faker-js/faker)
   [![npm version](https://badgen.net/npm/v/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
   [![npm downloads](https://badgen.net/npm/dm/@faker-js/faker)](https://www.npmjs.com/package/@faker-js/faker)
+  [![Continuous Integration](https://github.com/faker-js/faker/actions/workflows/ci.yml/badge.svg)](https://github.com/faker-js/faker/actions/workflows/ci.yml)
+  [![codecov](https://codecov.io/gh/faker-js/faker/branch/main/graph/badge.svg?token=N61U168G08)](https://codecov.io/gh/faker-js/faker)
+  [![Chat on Discord](https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord)](https://chat.fakerjs.dev)
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
   [![sponsor](https://img.shields.io/opencollective/all/fakerjs?label=sponsors)](https://opencollective.com/fakerjs)
   
