@@ -13,7 +13,7 @@
   
 </div>
 
-## Try it Online ⚡️
+## ⚡️ Try it Online
 
 [![](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://fakerjs.dev/new)
 
